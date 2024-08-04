@@ -14,7 +14,7 @@
 
 # AIML-2025
 # Artificial Intelligence and Machine Learning Lab jupyter notebook
-1.  [Lab 01](https://colab.research.google.com/drive/15aLNh8uPs1tH9Ezbr1WSHoRKdEG9718z?usp=sharing): Introduction to Python libraries-Numpy
+1.  [Lab 01](https://github.com/2303a51885/AIML-2025/blob/13e095620431cdefb313731cbfaba51ec0112afd/Lab01-AIML.ipynb): Introduction to Python libraries-Numpy
 1.  [Lab 02](): Introduction to Python libraries-Numpy
 1.  [Lab 03](): Introduction to Python libraries-Numpy
 1.  [Lab 04](): Introduction to Python libraries-Numpy
