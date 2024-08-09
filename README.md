@@ -2,7 +2,7 @@
 # SRIKAR
 # Artificial Intelligence and Machine Learning Lab Instrution Sheets
 1.  [Lab 01](https://github.com/2303a51885/AIML-2025/blob/main/AIML_A1.pdf): Introduction to Python libraries-Numpy
-1.  [Lab 02](): Introduction to Python libraries-Numpy
+1.  [Lab 02](https://github.com/2303a51885/AIML-2025/blob/bafdad6b723ebe59d3c64e19ab9e89319983ec41/AIML_A2.pdf): Introduction to Python libraries-Numpy
 1.  [Lab 03](): Introduction to Python libraries-Numpy
 1.  [Lab 04](): Introduction to Python libraries-Numpy
 1.  [Lab 05](): Introduction to Python libraries-Numpy
